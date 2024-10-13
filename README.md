@@ -35,5 +35,5 @@ A simple URL shortener written in Go.
 
 # Future Features
 
-** Database support to persist shortened URLs.
-** Error logging and better error handling.
+### Database support to persist shortened URLs.
+### Error logging and better error handling.
