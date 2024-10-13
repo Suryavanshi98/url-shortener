@@ -33,7 +33,6 @@ A simple URL shortener written in Go.
    curl -v http://localhost:8080/s/xxxxxx
    ```
 
-# Future Features
-
-### Database support to persist shortened URLs.
-### Error logging and better error handling.
+### Future Features
+- Database support to persist shortened URLs.
+- Error logging and better error handling.
